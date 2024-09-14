@@ -10,3 +10,7 @@
 
 ### 1. Database Setup
 
+load a dataset using python.
+
+note: install python steps fellow this links 
+
