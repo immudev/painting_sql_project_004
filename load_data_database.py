@@ -5,6 +5,8 @@ from sqlalchemy import create_engine
 
 
 # creating SQL Alchemy engine object to connect severs
+# can you use your database connection postgresql://username:password@localhost/database
+# this database connection is mine 
 conn_string = 'postgresql://postgres:Admin@localhost/painting_p004'
 db = create_engine(conn_string)
 
