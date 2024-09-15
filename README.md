@@ -12,5 +12,11 @@
 
 load a dataset using python step by step [Click here](https://github.com/immudev/python_and_postgresql-Setup-Guide).
 
-note: install python steps fellow this links 
+note: install python steps fellow this links.
+
+### 2. Data Analysis & Findings
+The following SQL queries were developed to answer specific business questions:
+
+1. *ffffff**:
+
 
