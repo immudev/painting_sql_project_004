@@ -10,7 +10,7 @@
 
 ### 1. Database Setup
 
-load a dataset using python.
+load a dataset using python step by step [Click here](https://github.com/immudev/python_and_postgresql-Setup-Guide).
 
 note: install python steps fellow this links 
 
